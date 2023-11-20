@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h2 align="center">SplitApp</h2>
+  <h2 align="center">Expense-Sharing-app</h2>
 
   <p align="center">
     Build with the MERN stack (MongoDB, Express, React and NodeJS).
@@ -95,7 +95,4 @@ $ npm install (to install server-side dependencies)
 & npm start (to start the server)
 ```
 
-## Comment
-I intend to keep adding more features to this application, so if you like it, please give it a star, that will encourage me to 
-to keep improving the project.
 
